@@ -1,0 +1,50 @@
+body{
+    margin: 5px;
+    
+    
+   
+   
+}
+
+.box{
+
+    padding: 50px;
+    text-align: center;
+    margin: auto;
+
+    
+
+    width: 600px;
+    height: 600px;
+    background-color:lightblue;
+    border: 2px solid blueviolet;
+    border-radius: 30px;
+
+
+}
+
+.container{
+
+    
+    color: blueviolet;
+    
+
+    text-align: center;
+    margin: auto;
+
+}
+
+.heading{
+    font-size: 40px;
+    
+    background-color: white;
+  
+    padding: 20px;
+    
+
+}
+
+.image{
+    height: 200px;
+    width: 200px;
+}
